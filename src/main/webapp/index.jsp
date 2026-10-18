@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>welcome for learning devops deployment--good!---ok 18-10-26</h1>
+    <h1>welcome for learning devops deployment--good!---ok 18-10-26 </h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
